@@ -1,5 +1,7 @@
 # 🎯 InterviewIQ.AI — Smart Interview Simulation Platform
 
+<img src="https://github.com/Saikat-Pradhan/AQI-Index-Analysis-using-Power-BI/blob/main/AQI%20Index%20Analysis%20Dashboard%20Sample%20Picture%20.png" />
+
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 ![Express](https://img.shields.io/badge/Framework-Express-black?logo=express)
